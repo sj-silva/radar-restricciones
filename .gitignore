@@ -1,0 +1,20 @@
+# Dependências
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variáveis de ambiente
+.env
+.env.local
+
+# Vercel
+.vercel
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code (opcional, se quiseres guardar config partilhada remove isto)
+.vscode/
